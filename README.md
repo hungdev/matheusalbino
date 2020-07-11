@@ -1,7 +1,18 @@
+# Matheus Albino 🤓
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusalbino)](https://github.com/matheusalbino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusalbino/)](https://www.linkedin.com/in/matheusalbino/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/equaldev)](https://twitter.com/equaldev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.nunes.albino@gmail.com)](mailto:m.nunes.albino@gmail.com)
+
 ### Welcome to my codespace
 
-- 🔭 I'm currently working at **[Orbita](https://www.linkedin.com/company/orbitacc/)**
-- 🌱 I'm currently learning Clean Architecture
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/matheusalbino/)
-  - [Twitter](https://twitter.com/equaldev)
+I'm Full-stack Developer.
+
+ - 🔭 I'm currently working at **[Orbita](https://www.linkedin.com/company/orbitacc/)**
+ - 💙 In love with Javascript/TypeScript
+ - 🌱 Currently learning Clean Architecture
+ - 🎮 I like to play games 
+ - 🛹 I like skateboard
+ - 🎹🎸 I like to play bass and piano
+ - 🐱 I have a cat named Denise
