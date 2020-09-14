@@ -6,8 +6,6 @@
 
 ### Welcome to my codespace
 
-I'm Full-stack Developer.
-
  - 🔭 I'm currently working at **[Orbita](https://www.linkedin.com/company/orbitacc/)**
  - 💙 In love with Javascript/TypeScript
  - 🌱 Currently learning Clean Architecture
