@@ -6,7 +6,7 @@
 
 ### Welcome to my codespace
 
- - 🔭 I'm currently working at **[Orbita](https://www.linkedin.com/company/orbitacc/)**
+ - 🔭 I'm currently working at **[Omega Energia](https://www.linkedin.com/company/omegaenergia/)**
  - 💙 In love with Javascript/TypeScript
  - 🌱 Currently learning Clean Architecture
  - 🎮 I like to play games 
