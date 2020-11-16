@@ -8,7 +8,6 @@
 
  - 🔭 I'm currently working at **[Omega Energia](https://www.linkedin.com/company/omegaenergia/)**
  - 💙 In love with Javascript/TypeScript
- - 🌱 Currently learning Clean Architecture
  - 🎮 I like to play games 
  - 🛹 I like skateboard
  - 🎹🎸 I like to play bass and piano
